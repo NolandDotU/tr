@@ -1,0 +1,6 @@
+
+.description {
+    max-height: 100px; /* Initial max height, hides extra text */
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
